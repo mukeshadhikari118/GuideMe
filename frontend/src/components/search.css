@@ -1,0 +1,25 @@
+.home__hero-section {
+    color: rgb(66, 36, 36);
+    padding: 160px 0;
+  }
+  .container{
+    max-width: fit-content;
+  }
+
+  .input-areas{
+    align-items: center;
+    max-width: 100%;
+  }
+  
+  .search-input {
+    padding: 8px 24px;
+    border-radius: 2px;
+    margin-right: 10px;
+    align-items: center;
+    max-width:100%;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    margin-bottom: 16px;
+    border: 1px solid rgb(44, 39, 39);
+  }
